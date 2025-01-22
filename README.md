@@ -1,4 +1,4 @@
-## P12. Background Eraser App Built Using Python and Streamlit
+## Background Eraser App Built Using Python and Streamlit
 This project is a user-friendly web app designed to remove image backgrounds seamlessly and efficiently. It leverages the power of Python and Streamlit, combined with robust image processing libraries, to deliver high-quality results. Whether you're a designer, photographer, or casual user, this app ensures an effortless experience.
 
 ## 🔧 Tools and Libraries Used
