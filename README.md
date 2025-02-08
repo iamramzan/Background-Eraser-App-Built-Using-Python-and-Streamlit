@@ -29,5 +29,3 @@ This app is open-source, and contributions are always welcome! Here’s how you 
 3. Add Features or Fix Issues: Implement your changes with clear documentation and coding standards.
 4. Submit a Pull Request: Send your changes for review. Contributions, big or small, are highly appreciated!
 Your collaboration helps make this app better for everyone. Let’s build something amazing together! 🚀
-
-[![12. Background Eraser App Built Using Python and Streamlit](https://img.youtube.com/vi/Ix-nYMesbKY/0.jpg)](https://youtu.be/Ix-nYMesbKY)
